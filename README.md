@@ -1,4 +1,4 @@
-# Projetos-DataScience
+# Projetos em Data Science
 Projetos de DataScience em Python utilizando Pandas e Matplotlib
 
 Acesso pelo Google Collab:
